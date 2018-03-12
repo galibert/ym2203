@@ -1,0 +1,7 @@
+ym2203.svg 10500 8500
+l-active blue  Active
+l-poly   red   Polysilicon
+l-metal  yellow Metal
+l-buried pink  Buried contacts
+l-vias   vias  Vias
+l-caps   green Capacitors

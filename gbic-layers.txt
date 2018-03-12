@@ -1,0 +1,2 @@
+ym2203.svg 10500 8500
+l-metal  yellow Metal

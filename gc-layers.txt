@@ -1,0 +1,8 @@
+ym2203.map ym2203.txt 10500 8500
+active l-active
+poly l-poly
+metal l-metal
+buried l-buried
+vias l-vias
+caps l-caps
+nmos-poly-single-metal
